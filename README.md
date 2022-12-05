@@ -1,5 +1,5 @@
 # T1 Case Problem 4: Harpe Gaming
 
-![Harpe Gaming](assets/harpegaming.png)
+[![Harpe Gaming](assets/harpegaming.png)](https://hesbon-osoro.github.io/HarpeGaming/)
 
-[`Demo`]()
+[`Demo`](https://hesbon-osoro.github.io/HarpeGaming/)
